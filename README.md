@@ -1,4 +1,4 @@
-# MoneySmart — MoneySmart – Your AI Finance Buddy!
+# MoneySmart – Your AI Finance Buddy!
 
 This project is Vercel-ready and includes:
 - React + Vite + Tailwind frontend
